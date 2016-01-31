@@ -6,6 +6,7 @@ email: 						"hi@anthonylee.io"
 description: 				"My name is Anthony. I am a developer from Colorado. I love to code and better the world."
 baseurl:          ""
 blogurl:          "/blog"
+playbookurl:      "/playbook"
 logourl: 					"/assets/img/bloglogo.jpg"
 fa-logo: 					"fa-bookmark-o"
 paginate: 3
