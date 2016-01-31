@@ -1,40 +1,22 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="profile">
-	{% if site.logourl != "" %}<img src="{{ site.logourl | prepend: site.baseurl }}" class="profileimage" alt="user">{% endif %}
-	<h4>{{ site.title }}</h4>
-	<p>{{ site.description }}</p>
-	<hr>
+<h1>About</h1>
+
+<p>
+Hello! My name is Anthony. I am a Software Developer from Colorado. I love to code and <a href="https://artandjustice.org" target="_blank">better the world</a>. I am currently studying for Master's Degree in Computer Science at Georgia Tech. I love Ruby, Vim, Javascript, Apex (Force.com), jazz guitar, craft beer and coffee.
+</p>
+
+
+<div id="profile-picture">
+  <img src="/assets/img/anthonylee.png" alt="Anthony Lee">
 </div>
 
-<section class="posts postindex wrapper">
-
-	{% for post in paginator.posts %}
-	<article class="post {% if post.featured == true %} featured {% endif %}">
-		<header>
-			<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-			<h2>
-				{% for category in post.categories %}
-					{{ category }} 
-				{% endfor %}
-			</h2>
-			<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-			<span>
-				Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
-			</span>
-			<div class="excerpt">
-				{% if post.content contains '<!--more-->' %}
-					{{ post.content | split:'<!--more-->' | first }}
-				{% else %}
-					{{ post.content }}
-				{% endif %}
-			</div>
-		</header>
-	</article>
-	{% endfor %}
-
-	{% include pagination.html %}
-
-</section>
+<div id="social-icons">
+  <a href="https://github.com/antwonlee" target="_blank" style="margin-right: 10px;"><i class="fa fa-github-alt"></i></a>
+  <a href="https://dribbble.com/anthonylee" target="_blank" style="margin-right: 10px;"><i class="fa fa-dribbble"></i></a>
+  <a href="https://twitter.com/anthonygawonlee" target="_blank" style="margin-right: 10px;"><i class="fa fa-twitter"></i></a>
+  <a href="https://www.producthunt.com/@anthonygawonlee" target="_blank" style="margin-right: 10px;"><i class="fa fa-product-hunt"></i></a>
+  <a href="https://www.dropbox.com/s/lm3pmf269hdl2qg/Anthony%20Lee.pdf?dl=0" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
+</div>
