@@ -14,7 +14,7 @@ paginate_path: "/blog/page:num/"
   # Author Settings
 author_name: 				"Anthony Lee"
 author_url: 				"http://anthonylee.io"
-author_bio: 				"I am currently studying for Master's Degree in Computer Science at Georgia Tech. I love Ruby, Vim, Javascript, Apex (Force.com), jazz guitar, craft beer and coffee."
+author_bio: 				"I love Ruby, Rails, TDD, Vim, Javascript, Apex (Force.com), jazz guitar, craft beer and coffee."
 author_email: 				"hi@anthonylee.io"
 author_image: 				"/assets/img/anthonylee.png"
 
