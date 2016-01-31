@@ -268,3 +268,11 @@ footer {
 .cover header h2 a:hover {
 	opacity: 1;
 }
+
+#profile-picture {
+  margin: 0 auto;
+  text-align: center;
+  img {
+    width: 100px;
+  }
+}
