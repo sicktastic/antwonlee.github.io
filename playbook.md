@@ -23,6 +23,7 @@ at a time.
   <li>Thoughtbot developers from Upcase program and blogs</li>
   <li>Pluarsight, Egghead, Treehouse, Lynda</li>
   <li>Peer developers</li>
+  <li>Books and Blogs</li>
 </ul>
 
 **My current job:**
