@@ -7,7 +7,7 @@ description: 				"My name is Anthony. I am a developer from Colorado. I love to 
 baseurl:          ""
 blogurl:          "/blog"
 playbookurl:      "/playbook"
-logourl: 					"/assets/img/bloglogo.jpg"
+logourl: 					"/assets/img/anthonylee.png"
 fa-logo: 					"fa-bookmark-o"
 paginate: 3
 paginate_path: "/blog/page:num/"
