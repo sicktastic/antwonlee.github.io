@@ -28,7 +28,7 @@ at a time.
 
 **My current job:**
 <br />
-Developer at <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>.  I mainly work on integrating Ruby on Rails and Salesforce (Rails for users, Salesforce for our team). I am also DevOps, I oversee all technical aspect of the organization.
+I mainly work on developing Rails applications integrating with Salesforce (Rails for users, Salesforce for our team).
 
 <br />
 
