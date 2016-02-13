@@ -30,8 +30,6 @@ at a time.
 <br />
 I mainly work on developing Rails applications integrating with Salesforce (Rails for users, Salesforce for our team).
 
-<br />
-
 <h1>Table of Contents</h1>
 <a id="test-driven-development" style="font-size: 1.25em">Editor</a>
 <ul style="line-height: 1em;">
