@@ -16,20 +16,6 @@ This is my personal playbook to become a better developer each day.  Currently, 
 Be humble yet confident. Learn new things each day to improve the world one code
 at a time.
 
-**I am an avid learner.  My mentors include:**
-
-<ul style="line-height: 1em;">
-  <li>Computer Science professors from Georgia Tech Masters Program</li>
-  <li>Thoughtbot developers from Upcase program and blogs</li>
-  <li>Pluarsight, Egghead, Treehouse, Lynda</li>
-  <li>Peer developers</li>
-  <li>Books and Blogs</li>
-</ul>
-
-**My current job:**
-<br />
-I mainly work on developing Rails applications integrating with Salesforce (Rails for users, Salesforce for our team).
-
 <h1>Table of Contents</h1>
 <a id="test-driven-development" style="font-size: 1.25em">Editor</a>
 <ul style="line-height: 1em;">
