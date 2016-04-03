@@ -52,7 +52,7 @@ Chris from Thoughtbot goes more in depth in his <a href="https://upcase.com/mast
 
 ---
 
-#####Resources
+#### Resources
 Highly recommend signing up for <a href="https://upcase.com" target="_blank">Upcase</a><br />
 They have a great module on <a href="https://upcase.com/videos/git-workflow" target="_blank">Git Workflow</a><br />
 As well as <a href="https://upcase.com/mastering-git" target="_blank">Mastering Git</a>
