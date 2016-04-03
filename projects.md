@@ -13,7 +13,7 @@ backend from scratch. Designed the frontend and the backend, while implementing
 different thrid party services. The business logic happens in Salesforce, while
 data syncs between Postgres and Salesforce through Heroku Connect and Salesforce
 REST API. Rails is used for customer facing app, while Salesforce provides the
-backend automations, lead pipe process, business logic, reports and data visualization.
+backend automations, lead pipeline, business logic, reports and data visualization.
 
 **Stack:**
 <ul>
