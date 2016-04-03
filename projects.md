@@ -6,7 +6,7 @@ comments: false
 
 #### <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>
 
-**Role:** Software Developer
+**Role:** Software Developer, DevOps
 
 **My Contribution:** I built the Rails application that integrates with Salesforce
 backend from scratch. Designed the frontend and the backend, while implementing
