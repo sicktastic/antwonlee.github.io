@@ -34,6 +34,11 @@ at a time.
   <li><a href="#">Stripe Payment Process</a></li>
 </ul>
 
+<h2 id="vim-and-tmux" style="padding-top: 30px;">Vim and Tmux</h2>
+
+The editor you choose for your workflow speaks a lot about your dedication to
+your craft, in our case that is developing software.
+
 <h2 id="test-driven-development">Test Driven Development</h2>
 
 I learned majority of my Test Drivent Development for Ruby on Rails from <a href="https://thoughtbot.com" target="_blank">Thoughtbot</a>'s resources: <a href="https://upcase.com" target="_blank">Upcase</a> program and <a href="https://gumroad.com/l/testing-rails?utm_source=giant-robots&utm_medium=blog&utm_campaign=announcement" target="_blank">Testing Rails</a> book.
