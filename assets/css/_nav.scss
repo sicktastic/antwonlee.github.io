@@ -63,6 +63,10 @@ nav {
 		a {
 			color: #007cc3;
 			padding: 6px 17px;
+			@media (max-width: 480px) {
+        padding: 5px 5px !important;
+        font-size: 12px !important;
+			}
 		}
 	}
 
