@@ -41,29 +41,6 @@ My philosophy of writing tests are to be confident of your code, and to make it 
 
 ### Simple Feature Spec
 
-{% highlight ruby %}
-require "rails_helper"
+Here is a simple feature spec where user creates student record
 
-feature "User submits Retreat Attendee Registration form" do
-  scenario "successfully" do
-    visit new_retreat_attendee_registration_path
-    submit_new_retreat_registration_form
-
-    expect(page).to have_content "Thank you, Doctor Who"
-  end
-
-  private
-
-  def submit_new_retreat_registration_form
-    retreat_attendee = create(:retreat_attendee_registration)
-
-    fill_in "First Name", with: retreat_attendee.first_name
-    fill_in "Last Name", with: retreat_attendee.last_name
-    fill_in "Email Address", with: retreat_attendee.email_address
-    fill_in "Country of Service", with: retreat_attendee.country_of_service
-    fill_in "Current Status", with: retreat_attendee.current_status
-    fill_in "Years Worked", with: retreat_attendee.years_worked
-    fill_in "Sending Agency", with: retreat_attendee.sending_agency
-  end
-end
-{% endhighlight %}
+<script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
