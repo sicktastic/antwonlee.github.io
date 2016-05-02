@@ -15,18 +15,6 @@ This is my personal playbook to become a better developer each day.  Currently, 
 Be humble yet confident. Learn new things each day to improve the world one code
 at a time.
 
-<h1>Table of Contents</h1>
-<a id="test-driven-development" style="font-size: 1.25em">Editor</a>
-<ul style="line-height: 1em;">
-  <li><a href="#">Vim and Tmux</a></li>
-</ul>
-<a id="test-driven-development" style="font-size: 1.25em">Test Driven Development</a>
-<ul style="line-height: 1em;">
-  <li><a href="#">RSpec</a></li>
-  <li><a href="#">Test Doubles</a></li>
-  <li><a href="#">Stubs, Mocks, Spies, and Fakes</a></li>
-</ul>
-
 <h2 id="vim-and-tmux" style="padding-top: 30px;">Vim and Tmux</h2>
 
 The editor you choose for your workflow speaks a lot about your dedication to
@@ -41,6 +29,6 @@ My philosophy of writing tests are to be confident of your code, and to make it 
 
 ### Simple Feature Spec
 
-Here is a simple feature spec where user creates student record
+Here is a simple feature spec where user creates student record.
 
 <script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
