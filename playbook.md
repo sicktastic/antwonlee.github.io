@@ -36,3 +36,18 @@ Here is a simple feature spec where user creates student record in live
 production application.
 
 <script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
+
+<br />
+
+<h2>Challenges and How I solved them</h2>
+
+**Challenge:** Non profit organization applications have different payment process compare to traditional product
+price models. While product plans usually have set price amounts to measure
+their MRR, non profit organizations want the flexibility to 
+
+<script src="https://gist.github.com/antwonlee/db50b861b47919c2d18478cdb4d599db.js"></script>
+
+<br />
+
+<h2>REST API Implementation Sample</h2>
+<script src="https://gist.github.com/antwonlee/7a66a0ddc415bf25a7517bd3aacbf9db.js"></script>
