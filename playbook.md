@@ -38,11 +38,12 @@ production application.
 
 <script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
 
-<h2 id="challenges-and-how-i-solved-them" style="padding-top: 30px;">Challenges and How I solved them</h2>
+<h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
 
 **Challenge:** Non profit organization applications have different payment process compare to traditional product
-pricing models. While SaaS services default to tier based pricing model, non
-profit organizations often don't want fixed recurring options from their donors. They want both.  They often want to give User an option to input their own desired amount to their recurring donation.  My challenge was to build a payment system that does just that.
+pricing models. While SaaS services default to tier based pricing model, non profit organizations often don't want fixed recurring amount from their donors but rather give user an option to input their own desired amount to the recurring donation.  My challenge was to build a payment system that does just that.
+
+**My Solution:** First, I picked Stripe because they have strong API documentation, community and support...  (START HERE AGAIN)
 
 <script src="https://gist.github.com/antwonlee/db50b861b47919c2d18478cdb4d599db.js"></script>
 
