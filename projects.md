@@ -9,7 +9,7 @@ comments: false
 **Role:** Software Developer, DevOps
 
 **Challenges:** We needed a system that integrates between multiple departments
-within the organization. The system was fragemented causing
+within the organization. The system was fragmented causing
 duplication of data in financial and development records. The system was
 expensive because it was creating more workflow for the team.  We also needed
 something that is User friendly with better UI/UX designs.  The legacy system
@@ -17,7 +17,7 @@ was ugly and too complicated for what it was.
 
 **My Contribution:** I built the Rails application that integrates and automates
 with Salesforce backend. Designed the UI/UX as well as the backend,
-while implementing different thrid party services through APIs.
+while implementing different third party services through APIs.
 
 I designed the system where business logic happens in Salesforce, while data syncs
 between Postgres and Salesforce through Heroku Connect and Salesforce REST API.
