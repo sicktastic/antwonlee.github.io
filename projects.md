@@ -41,7 +41,7 @@ automations, lead pipeline, business logic, reports and data visualization.
 
 **Role:** Software Developer
 
-**Challenges:** I wanted to built something that betters the world for my 
+**Challenges:** I wanted to build something that betters the world for my 
 daughter Luna Misoo who passed away in 2015.
 
 **My Contribution:** Building P2P fundraising application with Ruby on Rails.
