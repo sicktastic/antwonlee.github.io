@@ -50,13 +50,13 @@ production application.
 
 **My Solution:** 
 
-+ Use Stripe API for payment system, because it give developer flexibility.
++ Use Stripe API for payment system, because it gives developer maximum flexibility.
 + Build relational database in Postgres that mirrors the Stripe structure to
-  keep data clean and prevent duplication in Stripe during payment process.
+  keep the data clean and prevent duplication in Stripe during payment process.
 + Use Redis and Resque for queueing email receipts so it diminishes delay time
   for users during payment process.
-+ Write clear meta data for Strip so you have more control for API integrations.
-+ Create pre-dunning, dunning emails for donors.
++ Write clear meta data for Strip so you have more control regards API integrations in the future.
++ Create pre-dunning, dunning emails to not lose recurring donors.
 + Use Baremetrics for measuring MRR, churn, and other business data.
 
 <h4 style="padding-bottom: 35px;">Code Sample</h4>
