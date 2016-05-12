@@ -64,4 +64,7 @@ production application.
 <script src="https://gist.github.com/antwonlee/db50b861b47919c2d18478cdb4d599db.js"></script>
 
 <h2 id="rest-api-implementation-sample" style="padding-top: 30px;">REST API Implementation Sample</h2>
+
+One of the biggest challenge developers face is integrating multiple systems. [WIP... start from here again.]
+
 <script src="https://gist.github.com/antwonlee/7a66a0ddc415bf25a7517bd3aacbf9db.js"></script>
