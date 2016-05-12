@@ -40,10 +40,26 @@ production application.
 
 <h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
 
-**Challenge:** Non profit organization applications have different payment process compare to traditional product
-pricing models. While SaaS services default to tier based pricing model, non profit organizations often don't want fixed recurring amount from their donors but rather give user an option to input their own desired amount to the recurring donation.  My challenge was to build a payment system that does just that.
+**Challenge:** 
 
-**My Solution:** First, I picked Stripe because they have strong API documentation, community and support...  (START HERE AGAIN)
++ As a donor I want be able to give one time or recurring donation, so that I
+  have the choice to give the amount and frequency I desire to give.
+
++ As a donor I want to get email donation receipt, so that I don't have to deal
+  with paper mail.
+
+**My Solution:** 
+
++ Use Stripe API for payment system, because it give developer flexibility.
++ Build relational database in Postgres that mirrors the Stripe structure to
+  keep data clean and prevent duplication in Stripe during payment process.
++ Use Redis and Resque for queueing email receipts so it diminishes delay time
+  for users during payment process.
++ Write clear meta data for Strip so you have more control for API integrations.
++ Create pre-dunning, dunning emails for donors.
++ Use Baremetrics for measuring MRR, churn, and other business data.
+
+<h4 style="padding-bottom: 35px;">Code Sample</h4>
 
 <script src="https://gist.github.com/antwonlee/db50b861b47919c2d18478cdb4d599db.js"></script>
 
