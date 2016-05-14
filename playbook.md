@@ -100,3 +100,8 @@ JSON, AJAX, Endpoints</h2>
 
 + [WIP: Add description]
 + [WIP: Add Code Samples]
+
+<h2 id="tools-i-use" style="padding-top: 30px;">Tools I Use</h2>
+
++ [WIP: Add description]
++ [WIP: Add Code Samples]
