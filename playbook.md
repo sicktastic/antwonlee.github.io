@@ -68,6 +68,8 @@ production application.
 
 <h4 style="padding-bottom: 35px;">Code Sample</h4>
 
+This are production code for <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>.
+
 <script src="https://gist.github.com/antwonlee/db50b861b47919c2d18478cdb4d599db.js"></script>
 
 <h2 id="rest-api-implementation-sample" style="padding-top: 30px;">REST API Implementation Sample</h2>
