@@ -40,6 +40,12 @@ production application.
 
 <h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
 
+### Good RSpec
+
+[WIP: Write something here...  =)]
+
+<script src="https://gist.github.com/antwonlee/ba28c43be278e28ff31cd26c787d169c.js"></script>
+
 **Challenge:** 
 
 + As a donor I want be able to give one time or recurring donation, so that I
