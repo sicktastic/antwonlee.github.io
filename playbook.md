@@ -69,6 +69,9 @@ One of the biggest challenge developers face is integrating multiple systems. [W
 
 <script src="https://gist.github.com/antwonlee/7a66a0ddc415bf25a7517bd3aacbf9db.js"></script>
 
+<h2 id="javascript-json-ajax-endpoints" style="padding-top: 30px;">Style: Sandi Metz Rules</h2>
++ [WIP: Add description]
++ [WIP: Add Code Samples]
 
 <h2 id="javascript-json-ajax-endpoints" style="padding-top: 30px;">Javascript,
 JSON, AJAX, Endpoints</h2>
