@@ -38,13 +38,14 @@ production application.
 
 <script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
 
-<h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
-
-### Good RSpec
+<h2 id="good-rspec" style="padding-top: 30px;">Good RSpec</h2>
 
 [WIP: Write something here...  =)]
 
 <script src="https://gist.github.com/antwonlee/ba28c43be278e28ff31cd26c787d169c.js"></script>
+
+<h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
+
 
 **Challenge:** 
 
