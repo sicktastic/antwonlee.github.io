@@ -70,6 +70,11 @@ One of the biggest challenge developers face is integrating multiple systems. [W
 <script src="https://gist.github.com/antwonlee/7a66a0ddc415bf25a7517bd3aacbf9db.js"></script>
 
 <h2 id="javascript-json-ajax-endpoints" style="padding-top: 30px;">Style: Sandi Metz Rules</h2>
+
+<div style="width: auto; margin: 0 auto; text-align:center;">
+  <img src="https://hectorperezarenas.files.wordpress.com/2015/10/poodr.jpg" style="width: 150px;">
+</div>
+
 + [WIP: Add description]
 + [WIP: Add Code Samples]
 
