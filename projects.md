@@ -64,6 +64,6 @@ but to raise scholoarship funds for children in developing countries.
 
 #### Open Source I Contribute To:
 
-<a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
+Contributor to <a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
 <br />
-<a href="https://github.com/antwonlee/restforce_demo_app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
+Contributor to <a href="https://github.com/antwonlee/restforce_demo_app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
