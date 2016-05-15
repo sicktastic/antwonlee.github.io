@@ -59,3 +59,11 @@ but to raise scholoarship funds for children in developing countries.
   <li>Segment, Intercom, Mixpanel, Skylight, Papertrail, Filestack</li>
   <li>Github, Circle CI, Code Climate, HoundCI, Sentry, Gemnasium</li>
 </ul>
+
+----
+
+#### Open Source I Contribute To:
+
+<a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
+<br />
+<a href="https://github.com/antwonlee/restforce_demo_app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
