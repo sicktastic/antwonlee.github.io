@@ -27,7 +27,7 @@ automations, lead pipeline, business logic, reports and data visualization.
 **Stack:**
 <ul>
   <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a>, <a href="http://rspec.info/" target="_blank">RSpec</a>, <a href="http://jnicklas.github.io/capybara/" target="_blank">Capybara</a></li>
-  <li>jQuery, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D4, SCSS, Bootstrap</li>
+  <li>jQuery, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D3, SCSS, Bootstrap</li>
   <li>Heroku, Postgres, Sidekiq, Redis</li>
   <li><a
   href="https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/" target="_blank">Salesforce REST API</a>, <a href="https://devcenter.heroku.com/articles/herokuconnect-api" target="_blank">Heroku Connect</a>, <a href="https://www.contentful.com/developers/docs/references/content-delivery-api/" target="_blank">Contentful API</a>, <a href="https://stripe.com/docs/api" target="_blank">Stripe API</a></li>
