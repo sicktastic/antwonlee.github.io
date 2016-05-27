@@ -92,6 +92,8 @@ REACTJS, D3, JSON, AJAX, Endpoints</h2>
 
 Post some ReactJS, D3, and other javascript samples of my work...
 
+[WIP: Add demo app that read, parse and print data with node.js]
+
 <script src="https://gist.github.com/antwonlee/a735b4e675570c3513c47257364dbb01.js"></script>
 
 + [WIP: Add description]
