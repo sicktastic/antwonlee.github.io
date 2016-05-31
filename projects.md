@@ -62,6 +62,17 @@ but to raise scholoarship funds for children in developing countries.
 
 ----
 
+#### Georgia Tech Graduate Studies
+Specialization in Computational Perception & Robotics
+
+  + Software Development Process (CS6300, 2015 Spring)
+  + Computer Network (CS6260, 2016 Fall)
+  + Artificial Intelligence for Robotis (CS8803, 2016 Summer)
+  + Knowledge-Based Artificial Intelligence:Cognitive Systems (CS7637, 2016 Fall)
+  + Intro to Statistics
+
+----
+
 #### Open Source I Contribute To:
 
 Contributor to <a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
