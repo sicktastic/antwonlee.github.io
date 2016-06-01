@@ -10,16 +10,13 @@ comments: false
 
 **Challenges:** We needed a system that integrates between multiple departments
 within the organization. The system was fragmented causing
-duplication of data in financial and development records. The system was
-expensive because it was creating more workflow for the team.  We also needed
-something that is User friendly with better UI/UX designs.  The legacy system
-was ugly and too complicated for what it was.
+duplication of data from financial and development records. The system was
+getting expensive because it was creating more workflows for the staff.  We also needed
+to redesign the UI/UX for the app.
 
-**My Contribution:** I built the Rails application that integrates and automates
-with Salesforce backend. Designed the UI/UX as well as the backend,
-while implementing different third party services through APIs.
+**My Contribution:** I built the Rails application that integrates with Salesforce backend. I redesigned the UI/UX, while implementing different third party services through Restful APIs.
 
-I designed the system where business logic happens in Salesforce, while data syncs
+I designed the system where business logics happen in Salesforce, while data syncs
 between Postgres and Salesforce through Heroku Connect and Salesforce REST API.
 Rails is used for customer facing app, while Salesforce provides the backend
 automations, lead pipeline, business logic, reports and data visualization.
