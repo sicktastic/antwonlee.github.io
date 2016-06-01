@@ -80,4 +80,4 @@ Contributor to <a href="https://github.com/antwonlee/restforce_demo_app" target=
 
 #### Small Fun Projects
 
-<a href="https://github.com/antwonlee/chat-demo-app-react-firebase" target="_blank">Chat App</a>: Building chat app using ReactJS and Firebase
+<a href="https://github.com/antwonlee/chat-demo-app-react-firebase" target="_blank">Live Chat App</a>: Building chat app using ReactJS and Firebase
