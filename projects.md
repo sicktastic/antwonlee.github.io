@@ -60,7 +60,7 @@ but to raise scholoarship funds for children in developing countries.
 ----
 
 #### Georgia Tech Graduate Studies
-Specialization in Computational Perception & Robotics
+MS in Computer Science, specialization in Computational Perception & Robotics
 
   + Software Development Process (CS6300, 2015 Spring)
   + Computer Network (CS6260, 2016 Fall)
