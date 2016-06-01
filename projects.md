@@ -75,3 +75,9 @@ Specialization in Computational Perception & Robotics
 Contributor to <a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
 <br />
 Contributor to <a href="https://github.com/antwonlee/restforce_demo_app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
+
+----
+
+#### Small Fun Projects
+
+<a href="https://github.com/antwonlee/chat-demo-app-react-firebase" target="_blank">Chat App</a>: Building chat app using ReactJS and Firebase
