@@ -20,8 +20,9 @@ What makes me so excited about coding is that there is always something to
 learn.  With that, I am okay that I don't know all the frameworks or languages
 out there.  I am okay that I don't know all the popular libraries other
 there. I am okay that we all start as a newbie with many things in life at some
-point.
+point. I am okay that I am not the best.
 
 What matters to me is that, there is so much to learn—and that makes me
-passionate about being an engineer.  We are always newbies at something, and
-that makes it this field so exciting.
+passionate about being an engineer.  There is so much to learn from others and
+to teach others what you have learned.  We are always newbies at something, and
+that makes this field so exciting.
