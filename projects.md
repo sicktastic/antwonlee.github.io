@@ -39,12 +39,12 @@ automations, lead pipeline, business logic, reports and data visualization.
 **Role:** Software Developer
 
 **Challenges:** I wanted to build something that betters the world for my 
-daughter Luna Misoo who passed away in 2015.
+daughter Luna Misoo who passed away in 2015.  It's a platform that will
+fundraise for scholarships helping students around the world.
 
-**My Contribution:** Building P2P fundraising application with Ruby on Rails.
-Currently, it is working in progress. I work on it whenever I have time.  I am building
-an application similar to <a href="https://watsi.org/" target="_blank">Watsi</a>,
-but to raise scholoarship funds for children in developing countries.
+**My Contribution:** Building P2P fundraising application with Ruby on Rails, ReactJS and Salesforce.
+Currently, it is working in progress. I am passionate about this project and
+working hard to make it a reality.
 
 **Stack:**
 <ul>
