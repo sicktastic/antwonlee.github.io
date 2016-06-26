@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kalman Filter: Maximize Gaussian"
+title:  "Kalman Filter"
 date:   2016-06-26 02:00:00
 categories: ruby, python 
 banner_image: ""
