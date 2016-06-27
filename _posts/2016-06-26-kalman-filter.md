@@ -13,7 +13,7 @@ Filter.  To understand the mathematics better, I coded both in Python and Ruby.
 
 <!--more-->
 
-Here are the examples of calculating Maximize Gaussian:
+Some Python and Ruby comparison here:
 
 <script src="https://gist.github.com/antwonlee/2400049427b581f4be2b4b55752cef30.js"></script>
 
