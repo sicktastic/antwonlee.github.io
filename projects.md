@@ -6,23 +6,25 @@ comments: false
 
 #### <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>
 
+<img src="/assets/img/thrive_ministry.png" alt="Thrive Ministry Project">
+
 **Role:** Software Developer, DevOps
 
-**Challenges:** We needed a system that integrates between multiple departments
-within the organization. The system was fragmented causing
-duplication of data from financial and development records. The system was
-getting expensive because it was creating more workflows for the staff.  We also needed
-to redesign the UI/UX for the app.
+**Challenges:** We needed a system that integrates well between multiple departments
+within the organization. The system was fragmented and causing
+data duplications from financial and development departments. The system was
+getting expensive because it was creating duplicated workflows for the staff as well.
 
-**My Contribution:** I built the Rails application that integrates with Salesforce backend. I redesigned the UI/UX, while implementing different third party services through Restful APIs.
+**My Contribution:** I built Ruby on Rails application that integrates with Salesforce in the backend. I redesigned the UI/UX, while implementing different third party services through REST APIs.
 
 I designed the system where business logics happen in Salesforce, while data syncs
 between Postgres and Salesforce through Heroku Connect and Salesforce REST API.
-Rails is used for customer facing app, while Salesforce provides the backend
-automations, lead pipeline, business logic, reports and data visualization.
+Ruby on Rails is used for customer facing app, while Salesforce provides the backend
+automations, lead pipeline, business logic, reports and data visualization for
+the staff.
 
 **Stack:**
-<ul>
+<ul style="line-height: 1.5em;">
   <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a>, <a href="http://rspec.info/" target="_blank">RSpec</a>, <a href="http://jnicklas.github.io/capybara/" target="_blank">Capybara</a></li>
   <li>jQuery, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D3, SCSS, Bootstrap</li>
   <li>Heroku, Postgres, Sidekiq, Redis</li>
@@ -47,7 +49,7 @@ Currently, it is working in progress. I am passionate about this project and
 working hard to make it a reality.
 
 **Stack:**
-<ul>
+<ul style="line-height: 1.5em;">
   <li>Ruby on Rails with <a href="https://github.com/thoughtbot/suspenders" target="_blank">Suspenders</a>, Rspec, Capybara</li>
   <li>jQuery, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D3, SCSS, Bootstrap</li>
   <li>Heroku, Postgres, Sidekiq, Redis</li>
@@ -62,11 +64,13 @@ working hard to make it a reality.
 #### Georgia Tech Graduate Studies
 MS in Computer Science, specialization in Computational Perception & Robotics
 
-  + Software Development Process (CS6300, 2015 Spring)
-  + Computer Network (CS6260, 2016 Fall)
-  + Artificial Intelligence for Robotis (CS8803, 2016 Summer)
-  + Knowledge-Based Artificial Intelligence:Cognitive Systems (CS7637, 2016 Fall)
-  + Intro to Statistics
+<ul style="line-height: 1.5em;">
+  <li>Software Development Process (CS6300, 2015 Spring)</li>
+  <li>Computer Network (CS6260, 2016 Fall)</li>
+  <li>Artificial Intelligence for Robotis (CS8803, 2016 Summer)</li>
+  <li>Knowledge-Based Artificial Intelligence:Cognitive Systems (CS7637, 2016 Fall)</li>
+  <li>Intro to Statistics</li>
+</ul>
 
 ----
 
