@@ -31,9 +31,12 @@ My philosophy of writing tests are to be confident of your code.  I strive to wr
 
 Here is a simple feature spec that follows <a href="https://robots.thoughtbot.com/how-we-test-rails-applications" target="_blank">four phases of Testing: Setup, Exercise, Verification, Teardown</a>.  I also try to avoid rspec `let` arguments that can sometimes cause duplication in your test code and making it more complicated for other people to understand.
 
-<script src="https://gist.github.com/antwonlee/ba28c43be278e28ff31cd26c787d169c.js"></script>
+<script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
 
 <h2 id="how-i-solved-the-code-challenge" style="padding-top: 50px;">Code Challenge and Solution in Production</h2>
+
+
+**Production Application:** 
 
 
 **Challenge:** 
@@ -51,16 +54,26 @@ Here is a simple feature spec that follows <a href="https://robots.thoughtbot.co
 
 **My Solution:** 
 
-+ Use Stripe API for payment system, because it gives developer maximum flexibility.
-+ Build relational database in Postgres that mirrors the Stripe structure to
-  keep the data clean and prevent duplication in Stripe during payment process.
-+ Use Redis and Sidekiq for queueing email receipts so it diminishes delay time
-  for users during payment process.
-+ Write clear meta data for Strip so you have more control regards API integrations in the future.
-+ Create pre-dunning, dunning emails to not lose recurring donors.
-+ Use Baremetrics for measuring MRR, churn, and other business data.
-
-<h4 style="padding-bottom: 35px;">Code Sample</h4>
+<ul style="line-height: 1.5em;">
+  <li>
+    Use Stripe API for payment system, because it gives developer maximum flexibility.
+  </li>
+  <li>
+    Build relational database in Postgres that mirrors the Stripe structure to keep the data clean and prevent duplication in Stripe during payment process.
+  </li>
+  <li>
+    Use Redis and Sidekiq for queueing email receipts so it diminishes delay time for users during payment process.
+  </li>
+  <li>
+    Write clear meta data for Strip so you have more control regards API integrations in the future.
+  </li>
+  <li>
+    Create pre-dunning, dunning emails to not lose recurring donors.
+  </li>
+  <li>
+    Use Baremetrics for measuring MRR, churn, and other business data.
+  </li>
+</ul>
 
 This are production code for <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>.
 
