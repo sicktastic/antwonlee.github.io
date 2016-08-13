@@ -50,13 +50,7 @@ working hard to make it a reality.
 
 **Stack:**
 <ul style="line-height: 1.5em;">
-  <li>Ruby on Rails with <a href="https://github.com/thoughtbot/suspenders" target="_blank">Suspenders</a>, Rspec, Capybara</li>
-  <li>jQuery, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D3, SCSS, Bootstrap</li>
-  <li>Heroku, Postgres, Sidekiq, Redis</li>
-  <li><a
-  href="https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/" target="_blank">Salesforce REST API</a>, <a href="https://devcenter.heroku.com/articles/herokuconnect-api" target="_blank">Heroku Connect</a>, <a href="https://www.contentful.com/developers/docs/references/content-delivery-api/" target="_blank">Contentful API</a>, <a href="https://stripe.com/docs/api" target="_blank">Stripe API</a></li>
-  <li>Segment, Intercom, Mixpanel, Skylight, Papertrail, Filestack</li>
-  <li>Github, Circle CI, Code Climate, HoundCI, Sentry, Gemnasium</li>
+  <li>Rebuilding Rails app with Elixir and <a href="http://www.phoenixframework.org/" target="_blank">Phoenix</a></li>
 </ul>
 
 ----
