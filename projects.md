@@ -6,8 +6,6 @@ comments: false
 
 #### <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>
 
-<img src="/assets/img/thrive_ministry.png" alt="Thrive Ministry Project">
-
 **Role:** Software Developer, DevOps
 
 **Challenges:** We needed a system that integrates well between multiple departments
