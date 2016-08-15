@@ -60,8 +60,14 @@ MS in Computer Science, specialization in Computational Perception & Robotics
   <li>Software Development Process (CS6300, 2015 Spring)</li>
   <li>Computer Network (CS6260, 2016 Fall)</li>
   <li>Artificial Intelligence for Robotis (CS8803, 2016 Summer)</li>
-  <li>Knowledge-Based Artificial Intelligence:Cognitive Systems (CS7637, 2016 Fall)</li>
-  <li>Intro to Statistics</li>
+  <li>Machine Learning (CS7641, 2016 Fall)</li>
+</ul>
+
+Other Courses:
+
+<ul style="line-height: 1.5em;">
+  <li>Intro to Statistics (Bayes' Rule)</li>
+  <li>Linear Algebra</li>
 </ul>
 
 ----
