@@ -54,7 +54,7 @@ working hard to make it a reality.
 ----
 
 #### Georgia Tech Graduate Studies
-MS in Computer Science, specialization in Computational Perception & Robotics
+MS in Computer Science, specialization in Machine Learning
 
 <ul style="line-height: 1.5em;">
   <li>Software Development Process (CS6300, 2015 Spring)</li>
