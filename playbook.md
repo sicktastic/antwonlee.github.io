@@ -9,64 +9,71 @@ text-align: center">This document is working in progress...</div>
 
 <h2>Introduction</h2>
 
-This is my personal playbook to become a better developer each day.  My focuses are working with Ruby on Rails, Salesforce, Swift, and ReactJS development.  These are technologies I enjoy using and learning everyday.
+This is my personal playbook to become a better developer each day.  My focuses are working with Ruby (RoR), Javascript (ReactJS, D3, etc), Salesforce, and Swift (Hobby).  These are technologies I enjoy using and learning everyday.
 
-### My philosophy of being a good developer (Mission Statement):
+### Mission Statement
 Be humble yet confident. Learn new things each day to improve the world one code
 at a time.
 
-<h2 id="vim-and-tmux" style="padding-top: 30px;">Vim and Tmux</h2>
+<h3 id="vim-and-tmux" style="padding-top: 30px;">My Editor of Choice: Vim and Tmux</h3>
 
-The editor you choose for your workflow speaks a lot about your dedication to
-your craft, in our case that is developing software.  Text editor is my
-essential tool, and my favorite is Vim.  I was inspired by developers from
-<a href="https://thoughtbot.com/" target="_blank">Thoughtbot</a> years ago when I saw how fast it can improve your Rails development.
-If you are curious, here are my <a href="https://github.com/antwonlee/dotfiles" target="_blank">dotfiles</a>.
+The editor you choose for your workflow speaks a lot about your dedication to your craft, in our case that is developing software.  Text editor is my essential tool, and my favorite is Vim.  I was inspired by developers from <a href="https://thoughtbot.com/" target="_blank">Thoughtbot</a> years ago when I saw how fast it can improve your Rails development. If you are curious, here are my <a href="https://github.com/antwonlee/dotfiles" target="_blank">dotfiles</a>.
 
 
 <h2 id="test-driven-development" style="padding-top: 30px;">Test Driven Development</h2>
 
 I learned majority of my Test Drivent Development for Ruby on Rails from <a href="https://thoughtbot.com" target="_blank">Thoughtbot</a>'s resources: <a href="https://upcase.com" target="_blank">Upcase</a> program and <a href="https://gumroad.com/l/testing-rails?utm_source=giant-robots&utm_medium=blog&utm_campaign=announcement" target="_blank">Testing Rails</a> book.
 
-My philosophy of writing tests are to be confident of your code, and to make it simple and easy to understand.
+My philosophy of writing tests are to be confident of your code.  I strive to write tests that tell good stories and documentation of your application, while making it simple and easy to understand for other developers.
 
 
 ### Simple Feature Spec
 
-Here is a simple feature spec where user creates student record in live
-production application.
+Here is a simple feature spec that follows <a href="https://robots.thoughtbot.com/how-we-test-rails-applications" target="_blank">four phases of Testing: Setup, Exercise, Verification, Teardown</a>.  I also try to avoid rspec `let` arguments that can sometimes cause duplication in your test code and making it more complicated for other people to understand.
 
 <script src="https://gist.github.com/antwonlee/48bbd182b617984bcf6a0e38e56312de.js"></script>
 
-<h2 id="good-rspec" style="padding-top: 30px;">Good RSpec</h2>
+<h2 id="how-i-solved-the-code-challenge" style="padding-top: 50px;">Code Challenge and Solution in Production</h2>
 
-[WIP: Write something here...  =)]
 
-<script src="https://gist.github.com/antwonlee/ba28c43be278e28ff31cd26c787d169c.js"></script>
-
-<h2 id="how-i-solved-the-code-challenge" style="padding-top: 30px;">How I solved the code challenge</h2>
+**Production Application:** 
 
 
 **Challenge:** 
 
-+ As a donor I want be able to give one time or recurring donation, so that I
-  have the choice to give the amount and frequency I desire to give.
+<ul style="line-height: 1.5em;">
+  <li>
+    As a donor I want be able to give one time or recurring donation, so that I have the choice to give the amount and frequency I desire to give.
+  </li>
+  <li>
+    As a donor I want to get email donation receipt, so that I don't have to deal with paper mail.
+  </li>
+</ul>
 
-+ As a donor I want to get email donation receipt, so that I don't have to deal
-  with paper mail.
+
 
 **My Solution:** 
 
-+ Use Stripe API for payment system, because it gives developer maximum flexibility.
-+ Build relational database in Postgres that mirrors the Stripe structure to
-  keep the data clean and prevent duplication in Stripe during payment process.
-+ Use Redis and Sidekiq for queueing email receipts so it diminishes delay time
-  for users during payment process.
-+ Write clear meta data for Strip so you have more control regards API integrations in the future.
-+ Create pre-dunning, dunning emails to not lose recurring donors.
-+ Use Baremetrics for measuring MRR, churn, and other business data.
-
-<h4 style="padding-bottom: 35px;">Code Sample</h4>
+<ul style="line-height: 1.5em;">
+  <li>
+    Use Stripe API for payment system, because it gives developer maximum flexibility.
+  </li>
+  <li>
+    Build relational database in Postgres that mirrors the Stripe structure to keep the data clean and prevent duplication in Stripe during payment process.
+  </li>
+  <li>
+    Use Redis and Sidekiq for queueing email receipts so it diminishes delay time for users during payment process.
+  </li>
+  <li>
+    Write clear meta data for Strip so you have more control regards API integrations in the future.
+  </li>
+  <li>
+    Create pre-dunning, dunning emails to not lose recurring donors.
+  </li>
+  <li>
+    Use Baremetrics for measuring MRR, churn, and other business data.
+  </li>
+</ul>
 
 This are production code for <a href="https://thriveministry.org" target="_blank">Thrive Ministry</a>.
 
