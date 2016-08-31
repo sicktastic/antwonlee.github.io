@@ -21,6 +21,8 @@ Ruby on Rails is used for customer facing app, while Salesforce provides the bac
 automations, lead pipeline, business logic, reports and data visualization for
 the staff.
 
+<img src="https://s3.amazonaws.com/thriverails/images/thriveministry_member_edit.png" />
+
 **Stack:**
 <ul style="line-height: 1.5em;">
   <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a>, <a href="http://rspec.info/" target="_blank">RSpec</a>, <a href="http://jnicklas.github.io/capybara/" target="_blank">Capybara</a></li>
