@@ -33,7 +33,7 @@ With kNN, you are basically looking for the closest points to the new point. The
 <div style="margin: 0 auto; width: 100%; text-align: center">
   <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc0281a964ec758cca02ab9ef91a7f54ac00d4b7" />
 </div>
-You can write this in Python like this: `sqrt[(x2-x1)^2 + (y2-y1)^2]`
+You can write this in Python like this: `math.sqrt((x3-x1)**2 + (y2-y1)**2)`
 <br /><br />
 <strong>Pros and Cons?</strong>
 <br />
