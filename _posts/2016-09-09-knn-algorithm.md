@@ -19,11 +19,11 @@ With kNN, you are basically looking for the closest points to the new point. The
 + kNN is a type of instance-based learning, or lazy learning, where the function
   is only approximated locally and all computation is deferred until
   classification.
-+ The kNN algorithm is among the simplest of all Machine Learning Algorithms
++ The kNN algorithm is among the simplest of all Machine Learning Algorithms.
 + In kNN classification, the output is a class membership.  An Object is
   classified by a majority vote of its neighbors, with the object being assigned
   to the class most common among its `k` nearest neighbors (`k` is a positive
-  integer, typically small)
+  integer, typically small).
 
 <i style="font-size: 10px;">Reference: <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm</a></i>
 
@@ -37,11 +37,11 @@ You can write this in Python like this: `math.sqrt((x2-x1)**2 + (y2-y1)**2)`
 <br /><br />
 <strong>Pros and Cons?</strong>
 <br />
-<u>Pros:</u> High accuracy, insensitive to outliers, no assumptions about data
+<u>Pros:</u> High accuracy, insensitive to outliers, no assumptions about data.
 <br />
-<u>Cons:</u> Computationally expensive, high memory requirement
+<u>Cons:</u> Computationally expensive, high memory requirement.
 <br />
-<u>Works with:</u> Numeric values, nominal values
+<u>Works with:</u> Numeric values, nominal values.
 <br /><br />
 <strong>Good tools?</strong>
 <br />

@@ -3,7 +3,7 @@ gems: ['jekyll-paginate']
 # Site Settings
 title: 						"Anthony Lee"
 email: 						"hi@anthonylee.io"
-description: 				"My name is Anthony. I am a developer from Colorado. I love to code and better the world."
+description: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
 baseurl:          ""
 blogurl:          "/blog"
 projectsurl:      "/projects"
@@ -15,7 +15,7 @@ paginate_path: "/blog/page:num/"
   # Author Settings
 author_name: 				"Anthony Lee"
 author_url: 				"http://anthonylee.io"
-author_bio: 				"I love Ruby, Rails, TDD, Vim, Javascript, Apex (Force.com), jazz guitar, craft beer and coffee."
+author_bio: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
 author_email: 				"hi@anthonylee.io"
 author_image: 				"/assets/img/anthonylee.png"
 
