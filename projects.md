@@ -8,10 +8,7 @@ comments: false
 
 **Role:** Software Developer, DevOps
 
-**Challenges:** We needed a system that integrates well between multiple departments
-within the organization. The system was fragmented and causing
-data duplications from financial and development departments. The system was
-getting expensive because it was creating duplicated workflows for the staff as well.
+**Challenges:** We needed a system that integrates well between multiple departments within the organization. The system was fragmented and becoming expensive, because it was causing data and workflow duplications for the organization.
 
 **My Contribution:** I built Ruby on Rails application that integrates with Salesforce in the backend. I redesigned the UI/UX, while implementing different third party services through REST APIs.
 
