@@ -10,13 +10,9 @@ comments: false
 
 **Challenges:** We needed a system that integrates well between multiple departments within the organization. The system was fragmented and becoming expensive, because it was causing data and workflow duplications for the organization.
 
-**My Contribution:** I built Ruby on Rails application that integrates with Salesforce in the backend. I redesigned the UI/UX, while implementing different third party services through REST APIs.
+**My Contribution:** I built Ruby on Rails application that integrates with Salesforce in the backend. I redesigned the UI/UX, while implementing different third party services through REST APIs from ground up.
 
-I designed the system where business logics happen in Salesforce, while data syncs
-between Postgres and Salesforce through Heroku Connect and Salesforce REST API.
-Ruby on Rails is used for customer facing app, while Salesforce provides the backend
-automations, lead pipeline, business logic, reports and data visualization for
-the staff.
+I designed the system where business logics happen in Salesforce, while data syncs between Postgres and Salesforce through Heroku Connect and Salesforce REST API. Ruby on Rails is used for customer facing app, while Salesforce provides the backend automations, lead pipeline, business logic, reports and data visualization for the staff.  My solution fixed the fragmented systems into one robust structure, making it easy for our staff and our users.
 
 <img src="https://s3.amazonaws.com/thriverails/images/thriveministry_member_edit.png" />
 
