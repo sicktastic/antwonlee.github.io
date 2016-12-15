@@ -10,6 +10,8 @@ comments: true
 
 Ruby, Python, and Elixir are fun languages to learn.  One of the first thing I usually learn when I am learning a new language is to print out the values to the console.
 
+<!--more-->
+
 In Ruby, we use `puts` to print to console.  Something like: `puts "Hello Kitty."`
 
 In Elixir, we use `IO.puts` to print to console.  Something like: `IO.puts "Hello Kitty."`
