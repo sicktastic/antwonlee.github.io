@@ -53,7 +53,7 @@ MS in Computer Science, specialization in Machine Learning
 
 <ul style="line-height: 1.5em;">
   <li>Machine Learning (CS7641, 2016 Fall)</li>
-  <li>Artificial Intelligence for Robotis (CS8803, 2016 Summer)</li>
+  <li>Artificial Intelligence for Robotics (CS8803, 2016 Summer)</li>
   <li>Computer Network (CS6260, 2016 Fall)</li>
   <li>Software Development Process (CS6300, 2015 Spring)</li>
 </ul>
