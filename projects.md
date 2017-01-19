@@ -8,8 +8,6 @@ comments: false
 
 **Role:** Software Developer, DevOps
 
-**Challenges:** We needed a system that integrates well between multiple departments within the organization. The system was fragmented and becoming expensive, because it was causing data and workflow duplications for the organization.
-
 **My Contribution:** I built Ruby on Rails application that integrates with Salesforce in the backend. I redesigned the UI/UX, while implementing different third party services through REST APIs from ground up.
 
 I designed the system where business logics happen in Salesforce, while data syncs between Postgres and Salesforce through Heroku Connect and Salesforce REST API. Ruby on Rails is used for customer facing app, while Salesforce provides the backend automations, lead pipeline, business logic, reports and data visualization for the staff.  My solution fixed the fragmented systems into one robust structure, making it easy for our staff and our users.
@@ -33,12 +31,7 @@ I designed the system where business logics happen in Salesforce, while data syn
 
 **Role:** Software Developer
 
-**Challenges:** I wanted to build something that betters the world for my 
-daughter Luna Misoo who passed away in 2015.  It's a platform that will
-fundraise for scholarships helping students around the world.
-
-**My Contribution:** Building P2P fundraising application with Ruby on Rails, ReactJS and Salesforce.
-Currently, it is working in progress. I am passionate about this project and
+**My Contribution:** Building P2P fundraising application with Ruby on Rails, ReactJS and Salesforce. Currently, it is working in progress. I am passionate about this project and
 working hard to make it a reality.
 
 **Stack:**
