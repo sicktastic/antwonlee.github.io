@@ -2,7 +2,7 @@
 layout: post
 title:  "Matrix with Ruby"
 date:   2017-02-09 12:00:00
-categories: Machine Learning, Linear Algebra
+categories: Machine Learning, Linear Algebra, Ruby
 banner_image: ""
 featured: false
 comments: true
