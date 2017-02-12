@@ -68,7 +68,7 @@ Other Courses:
 
 Contributor to <a href="https://github.com/ejholmes/restforce" target="_blank">Restforce</a>: A ruby client for the Salesforce REST api.
 <br />
-Contributor to <a href="https://github.com/antwonlee/restforce_demo_app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
+Contributor to <a href="https://github.com/restforce/restforce-demo-app" target="_blank">Restforce Demo App</a>: CRUD Demo app using Restforce gem.
 
 ----
 
