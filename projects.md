@@ -21,7 +21,7 @@ in the app continues to evolve as new tools are presented.
 **Stack:**
 <ul style="line-height: 1.5em;">
   <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a>, <a href="http://rspec.info/" target="_blank">RSpec</a>, <a href="http://jnicklas.github.io/capybara/" target="_blank">Capybara</a></li>
-  <li><a href="https://vuejs.org/" target="_blank">Vue.js</a>, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, D3, SCSS, Bootstrap</li>
+  <li><a href="https://vuejs.org/" target="_blank">Vue.js</a>, <a href="https://facebook.github.io/react/" target="_blank">ReactJS</a>, ChartJS, D3, Bootstrap 4</li>
   <li>Heroku, Postgres, Sidekiq, Redis</li>
   <li><a
   href="https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/" target="_blank">Salesforce REST API</a>, <a href="https://devcenter.heroku.com/articles/herokuconnect-api" target="_blank">Heroku Connect</a>, <a href="https://www.contentful.com/developers/docs/references/content-delivery-api/" target="_blank">Contentful API</a>, <a href="https://stripe.com/docs/api" target="_blank">Stripe API</a></li>
