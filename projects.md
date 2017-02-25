@@ -33,7 +33,6 @@ For data visualization, I utilized D3.js, Vue.js, ChartJS, and ReactJS for the f
 **Role:** Software Developer
 
 **My Contribution:** Building P2P fundraising application with Ruby on Rails, Vue.js and Salesforce. Currently, it is working in progress. I am passionate about this project and working hard to make it a reality.
-
 <img src="https://d39ap9yiymgxt8.cloudfront.net/images/lunamisoo.png" />
 
 ----
