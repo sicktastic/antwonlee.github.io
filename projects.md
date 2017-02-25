@@ -16,7 +16,7 @@ For data visualization, I utilized D3.js and ReactJS for the frontend while
 using Salesforce dashboard and reporting for the backend.  The technologies used
 in the app continues to evolve as new tools are presented.
 
-<img src="https://d39ap9yiymgxt8.cloudfront.net/images/thriveministry_member_edit.png" />
+<img src="https://d39ap9yiymgxt8.cloudfront.net/images/thriveministry_app.png" />
 
 **Stack:**
 <ul style="line-height: 1.5em;">
