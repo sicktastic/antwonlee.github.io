@@ -12,7 +12,7 @@ comments: false
 
 I designed the system where business logics happen in Salesforce, while data syncs between Postgres and Salesforce through <a href="https://www.heroku.com/connect" target="_blank">Heroku Connect</a> and <a href="https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_what_is_rest_api.htm" target="_blank">Salesforce REST API</a>. Ruby on Rails is used for customer facing app, while Salesforce provides the backend automations, lead pipelines, business logics, reports and data visualizations for the business.  My solution fixed the fragmented systems into one robust structure, making it easy for the staff and users to save time and resources.
 
-For data visualization, I utilized D3.js, VueJs, ChartJS, and ReactJS for the frontend, while using dashboards and reports with <a href="https://developer.salesforce.com/lightning" target="_blank">Salesforce Lightning technology</a>.  The stacks used in the app continues to evolve as new tools are presented.
+For data visualization, I utilized D3.js, Vue.js, ChartJS, and ReactJS for the frontend, while using dashboards and reports with <a href="https://developer.salesforce.com/lightning" target="_blank">Salesforce Lightning technology</a>.  The stacks used in the app continues to evolve as new tools are presented.
 <img src="https://d39ap9yiymgxt8.cloudfront.net/images/thriveministry_app.png" />
 <img src="https://d39ap9yiymgxt8.cloudfront.net/images/thrive_salesforce.png" />
 **Stack:**
@@ -32,7 +32,7 @@ For data visualization, I utilized D3.js, VueJs, ChartJS, and ReactJS for the fr
 
 **Role:** Software Developer
 
-**My Contribution:** Building P2P fundraising application with Ruby on Rails, VueJs and Salesforce. Currently, it is working in progress. I am passionate about this project and working hard to make it a reality.
+**My Contribution:** Building P2P fundraising application with Ruby on Rails, Vue.js and Salesforce. Currently, it is working in progress. I am passionate about this project and working hard to make it a reality.
 
 ----
 
