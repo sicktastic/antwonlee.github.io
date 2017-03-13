@@ -6,7 +6,6 @@ email: 						"hi@anthonylee.io"
 description: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
 baseurl:          ""
 blogurl:          "/blog"
-projectsurl:      "/projects"
 logourl: 					"/assets/img/anthonylee.png"
 fa-logo: 					"fa-bookmark-o"
 paginate: 5
