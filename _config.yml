@@ -3,7 +3,7 @@ plugins: ['jekyll-paginate']
 # Site Settings
 title: 						"Anthony Lee"
 email: 						"hi@anthonylee.io"
-description: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
+description: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Robotics & Computational Perception."
 baseurl:          ""
 blogurl:          "/blog"
 logourl: 					"/assets/img/anthonylee.png"
@@ -14,7 +14,7 @@ paginate_path: "/blog/page:num/"
   # Author Settings
 author_name: 				"Anthony Lee"
 author_url: 				"http://anthonylee.io"
-author_bio: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
+author_bio: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Robotics & Computational Perception."
 author_email: 				"hi@anthonylee.io"
 author_image: 				"/assets/img/anthonylee.png"
 
