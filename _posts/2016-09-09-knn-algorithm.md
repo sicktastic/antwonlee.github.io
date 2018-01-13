@@ -48,9 +48,9 @@ You can write this in Python like this: `math.sqrt((x2-x1)**2 + (y2-y1)**2)`
 <a href="http://scikit-learn.org/stable/index.html" target="_blank">Scikit-learn</a> is a great Machine Learning library to perform machine learning algorithm.
 <br /><br />
 Example of <a href="http://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html" target="_blank">kNN classification example</a> from scikit:
-<img src="http://scikit-learn.org/stable/_images/plot_classification_001.png" />
+<img src="http://scikit-learn.org/stable/_images/sphx_glr_plot_classification_001.png" />
 <script src="https://gist.github.com/antwonlee/bd7859cb32db2884717cd912bb81ac3e.js"></script>
 <br /><br />
 Example of <a href="http://scikit-learn.org/stable/auto_examples/neighbors/plot_regression.html" target="_blank">kNN regression example</a> from scikit:
-<img src="http://scikit-learn.org/stable/_images/plot_regression_001.png" />
+<img src="http://scikit-learn.org/stable/_images/sphx_glr_plot_regression_001.png" />
 <script src="https://gist.github.com/antwonlee/65b936bb167d66a4b3f3e0a257c54264.js"></script>
