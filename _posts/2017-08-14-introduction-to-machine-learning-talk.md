@@ -8,7 +8,7 @@ featured: false
 comments: true
 ---
 
-Teaching is the best way for me to learn something.  I wanted to get better at Machine Learning so I decided to submit a talk to a local <a href="https://www.meetup.com/RubyFTW-Fort-Worth-Ruby-User-Group/" target="_blank">Ruby meetup</a> here in Fort Worth, Texas.
+Teaching is the best way for me to learn something.  I wanted to get better at Machine Learning so I decided to submit a talk to a local <a href="https://www.meetup.com/RubyFTW-Fort-Worth-Ruby-User-Group/events/243499897/" target="_blank">Ruby meetup</a> here in Fort Worth, Texas.
 
 <!--more-->
 
