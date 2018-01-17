@@ -455,3 +455,17 @@ td,
 th {
     padding: 0;
 }
+
+// *anthonylee custom
+.bookingjs-avatar {
+  img {
+    margin: 0px !important;
+  }
+}
+
+.bookingjs-form-field {
+  input:not([type=submit]):not([type=file]) {
+    border: 0px !important;
+    border-radius: 0px !important;
+  }
+}
