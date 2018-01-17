@@ -287,3 +287,10 @@ footer {
     margin: 0px;
   }
 }
+
+.bookingjs-form-field {
+  input:not([type=submit]):not([type=file]) {
+    border: 0px;
+    border-radius: 0px;
+  }
+}
