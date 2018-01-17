@@ -284,13 +284,13 @@ footer {
 // *anthonylee custom
 .bookingjs-avatar {
   img {
-    margin: 0px;
+    margin: 0px !important;
   }
 }
 
 .bookingjs-form-field {
   input:not([type=submit]):not([type=file]) {
-    border: 0px;
-    border-radius: 0px;
+    border: 0px !important;
+    border-radius: 0px !important;
   }
 }
