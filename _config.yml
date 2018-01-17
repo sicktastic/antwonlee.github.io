@@ -45,4 +45,5 @@ style: :compressed
 
   # Build Settings
 markdown: 					kramdown
-permalink: 					:year/:month/:day/:title/
+# permalink: 					:year/:month/:day/:title/
+permalink: 					pretty
