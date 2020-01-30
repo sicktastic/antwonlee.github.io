@@ -1,0 +1,15 @@
+I"<p>While doing math in Ruby is little more challenging than Python or R, it is
+still my favorite language!  Here is how we create simple matrix with Ruby with
+<a href="http://ruby-doc.org/stdlib-2.0.0/libdoc/matrix/rdoc/Matrix.html" target="_blank">matrix class</a> and do a simple multiplication.</p>
+
+<!--more-->
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">require</span> <span class="s1">'matrix'</span>
+
+<span class="n">matrix_a</span> <span class="o">=</span> <span class="no">Matrix</span><span class="p">[[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">]]</span>
+<span class="n">matrix_b</span> <span class="o">=</span> <span class="no">Matrix</span><span class="p">[[</span><span class="o">-</span><span class="mi">3</span><span class="p">,</span> <span class="o">-</span><span class="mi">8</span><span class="p">,</span> <span class="mi">3</span><span class="p">],</span> <span class="p">[</span><span class="o">-</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">]]</span>
+
+<span class="n">result</span> <span class="o">=</span> <span class="n">matrix_a</span> <span class="o">*</span> <span class="n">matrix_b</span>
+<span class="c1"># =&gt; Matrix[[-7, -6, 11], [-17, -20, 25]]</span>
+</code></pre></div></div>
+:ET

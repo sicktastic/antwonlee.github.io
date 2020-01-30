@@ -1,0 +1,14 @@
+I"�<p>I started reading <a href="https://gumroad.com/l/ruby-science">Ruby Science</a> by <a href="http://thoughtbot.com">Thoughtbot</a>.  I really love this agency, and I learn most of my rails knowledge from <a href="https://upcase.com">Upcase</a>.
+<!--more--></p>
+
+<p>According to the book, here are some indications where your class might be little too large than it ought to be:</p>
+
+<ul>
+  <li>You can’t easily describe what the class does in one sentence.</li>
+  <li>You can’t tell what the class does without scrolling.</li>
+  <li>The class needs to change for more than one reason.</li>
+  <li>The class has more than seven methods.</li>
+</ul>
+
+<p>You should look at one of your large class, and see if any of these attributes are true.</p>
+:ET
