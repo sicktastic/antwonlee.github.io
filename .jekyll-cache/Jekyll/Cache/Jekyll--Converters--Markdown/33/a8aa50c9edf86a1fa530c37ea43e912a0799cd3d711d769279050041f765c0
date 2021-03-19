@@ -1,10 +1,10 @@
-I"Á<p>kNN is one of the algorithm used for <a href="http://math.stackexchange.com/questions/141381/regression-vs-classification" target="_blank">classification and regression</a> in <a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank">Supervised Learning</a>.  It is regarded as one of the simplest machine learning algorithm.</p>
+I" <p>kNN is one of the algorithm used for <a href="http://math.stackexchange.com/questions/141381/regression-vs-classification" target="_blank">classification and regression</a> in <a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank">Supervised Learning</a>.  It is regarded as one of the simplest machine learning algorithm.</p>
 
 <!--more-->
 
 <p>Unlike other Supervised Learning algorithms, it does not have a training phase.  The training and testing is pretty much the same thing.  It is a <a href="https://en.wikipedia.org/wiki/Lazy_learning" target="_blank">lazy learner</a> where training dataset is already stored. Because of that very reason, kNN is not an ideal candidate for algorithm that needs to process large data set.</p>
 
-<p>With kNN, you are basically looking for the closest points to the new point. The <code class="highlighter-rouge">k</code> represents the amount of nearest neighbors of the unknown point. We provide the <code class="highlighter-rouge">k</code> amount (Often an odd number) of the algorithm to predict the outcome.</p>
+<p>With kNN, you are basically looking for the closest points to the new point. The <code class="language-plaintext highlighter-rouge">k</code> represents the amount of nearest neighbors of the unknown point. We provide the <code class="language-plaintext highlighter-rouge">k</code> amount (Often an odd number) of the algorithm to predict the outcome.</p>
 
 <ul>
   <li>kNN is a type of instance-based learning, or lazy learning, where the function
@@ -13,7 +13,7 @@ classification.</li>
   <li>The kNN algorithm is among the simplest of all Machine Learning Algorithms.</li>
   <li>In kNN classification, the output is a class membership.  An Object is
 classified by a majority vote of its neighbors, with the object being assigned
-to the class most common among its <code class="highlighter-rouge">k</code> nearest neighbors (<code class="highlighter-rouge">k</code> is a positive
+to the class most common among its <code class="language-plaintext highlighter-rouge">k</code> nearest neighbors (<code class="language-plaintext highlighter-rouge">k</code> is a positive
 integer, typically small).</li>
 </ul>
 
@@ -25,7 +25,7 @@ integer, typically small).</li>
 <div style="margin: 0 auto; width: 100%; text-align: center">
   <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc0281a964ec758cca02ab9ef91a7f54ac00d4b7" />
 </div>
-<p>You can write this in Python like this: <code class="highlighter-rouge">math.sqrt((x2-x1)**2 + (y2-y1)**2)</code>
+<p>You can write this in Python like this: <code class="language-plaintext highlighter-rouge">math.sqrt((x2-x1)**2 + (y2-y1)**2)</code>
 <br /><br />
 <strong>Pros and Cons?</strong>
 <br />
