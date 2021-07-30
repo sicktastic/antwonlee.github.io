@@ -6,7 +6,7 @@ email: 						"hi@anthonylee.io"
 description: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
 baseurl:          ""
 blogurl:          "/blog"
-logourl: 					"/assets/img/anthonylee-2018.png"
+logourl: 					"/assets/img/anthony.jpg"
 fa-logo: 					"fa-bookmark-o"
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -16,7 +16,7 @@ author_name: 				"Anthony Lee"
 author_url: 				"http://anthonylee.io"
 author_bio: 				"I love to code and better the world.  Graduate student at Georgia Tech specializing in Machine Learning."
 author_email: 				"hi@anthonylee.io"
-author_image: 				"/assets/img/anthonylee-2018.png"
+author_image: 				"/assets/img/anthony.jpg"
 
   # Social Settings
 twitter_url:        "https://twitter.com/anthonygawonlee"
