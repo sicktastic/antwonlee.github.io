@@ -1,0 +1,11 @@
+I"ç<p>In decision tree the <a href="https://en.wikipedia.org/wiki/ID3_algorithm" target="_blank">ID3 algorithm</a> uses <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)" target="_blank">entropy</a> to calculate the homogeneity of a sample.</p>
+
+<!--more-->
+
+<p><img src="http://i.stack.imgur.com/vIFD7.png" /></p>
+
+<p>The equation can be calculated in python like this:</p>
+
+<script src="https://gist.github.com/sicktastic/635d52efe702e6673a9a83fe79501dfd.js"></script>
+
+:ET
